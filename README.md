@@ -1,4 +1,4 @@
-# Simon Says – Emotion Recognition Game 🎮
+# Simon Says – Emotion Recognition Game 
 
 An interactive emotion recognition game developed using **Convolutional Neural Networks (CNN)** and computer vision. Players imitate prompted emotions while the system uses a trained model based on an emotion dataset to recognize their facial expressions through a camera.
 
